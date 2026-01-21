@@ -1,7 +1,8 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/univer-js3/6/user/2672379).
-* Наставник: `Неизвестно`.
+* Студент: [Александр Виниченко](https://up.htmlacademy.ru/univer-js3/6/user/2672767).
+* Наставник: `Андрей Осипук`.
+* CodeSandBox: [Перейти](https://codesandbox.io/p/github/vinichDev/react-six-cities/master)
 
 ---
 
